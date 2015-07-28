@@ -8,13 +8,13 @@
   },
   "version": "0.0.1",
   "engines": {
-    "node": ">= 0.8.6"
+    "node": "*"
   },
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:locomote/cbt"
+    "url": "git@github.com:benkitzelman/cls-binder.git"
   },
   "dependencies": {
   },
