@@ -1,0 +1,23 @@
+{
+  "name": "cls-binder",
+  "title": "CLS Binder",
+  "description": "Binds a callback to all CLS namespaces",
+  "private": true,
+  "author": {
+    "name": "Ben Kitzelman"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.8.6"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:locomote/cbt"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
