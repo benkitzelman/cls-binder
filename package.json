@@ -2,7 +2,7 @@
   "name": "cls-binder",
   "title": "CLS Binder",
   "description": "Binds a callback to all CLS namespaces",
-  "private": true,
+  "private": false,
   "author": {
     "name": "Ben Kitzelman"
   },
