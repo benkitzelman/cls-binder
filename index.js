@@ -1,4 +1,4 @@
-module.exports.bind = function bind(fn) {
+module.exports.bind = function(fn) {
   var callback = fn;
 
   Object.keys(process.namespaces || {}).forEach(function (name) {

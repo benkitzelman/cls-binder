@@ -6,11 +6,12 @@
   "author": {
     "name": "Ben Kitzelman"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": "*"
   },
   "scripts": {
+    "test": "mocha tests.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,6 @@
   "dependencies": {
   },
   "devDependencies": {
+    "mocha": "*"
   }
 }
